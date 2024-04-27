@@ -1,0 +1,125 @@
+.logo{
+    height: 50px;
+    
+}
+
+.bracket{
+    font-size: 20px;
+    margin: 0px 20px;
+    color: #fff;
+}
+.nav-bg{
+    background-color: rgb(49, 18, 103);
+}
+.ust-kisim{
+    background-image: url(image/whyyy.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.ust-kisim-aboutme{
+   background-image: url(image/whyy.png);
+    height: 41vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.ust-kisim-contact{
+    background-image: url(image/contactt.png);
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+/*.nav-link{
+    color: #fff;
+}*/
+.nav-item a{
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.nav-item a:hover{
+   color: #f4b70b
+}
+.navbar-toggler-icon{
+    color: #fff;
+}
+
+/* clicks*/
+.clicks{
+    height: 60px;
+}
+.tirnak{
+    color: #f4b70b;
+    font-size: 36px;
+    font-weight: bold;
+}
+.imza{
+    font-size: 20px;
+}
+/* about me*/
+.aboutMe{
+    background-color: #310947;
+    color: #959191;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Links{
+    
+    background-color: #310947;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.medi:hover{
+    border: 1px solid gray;
+    cursor:pointer;
+
+}
+.git:hover{
+    border: 1px solid gray;
+    cursor:pointer;
+
+}
+.lin:hover{
+    border: 1px solid gray;
+    cursor:pointer;
+
+}
+
+.display-main{
+    background-color: #310947;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+}
+.sayfa-baslik{
+
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.list{
+    background-color: #310947;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+   
+}
